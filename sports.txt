@@ -1,0 +1,9 @@
+hockey
+cricket
+ludo
+kite
+golf
+soccer
+rugby
+racket
+
